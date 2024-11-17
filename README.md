@@ -1,4 +1,7 @@
-# EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
+# EX 02 SIMULATION OF PUSHBUTTON AND LED WITH PROTEUS 
+### Name : ANISH RAJ P
+### Register no : 212222230010
+### Date of experiment : 20.08.2024
 ## Aim:
 To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required:
